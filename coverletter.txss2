@@ -1,0 +1,47 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "coverletter.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "coverletter.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "cv.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 1,
+                "EditorGroup": 0,
+                "FileName": "resume.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 13
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "coverletter.tex",
+                "FirstLine": 3,
+                "FoldedLines": "",
+                "Line": 113
+            },
+            {
+                "Col": 28,
+                "EditorGroup": 0,
+                "FileName": "C:/Users/alber/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome/fontawesome.sty",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 32
+            }
+        ],
+        "MasterFile": ""
+    }
+}
