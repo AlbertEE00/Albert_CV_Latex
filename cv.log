@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.5.15)  3 JUN 2024 12:52
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.5.15)  3 JUN 2024 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1091,7 +1091,7 @@ Overfull \hbox (108.21791pt too wide) in alignment at lines 10--60
 
 ) [1
 
-] (cv/experience.tex) [2] (cv/writing.tex)
+] (cv/experience.tex) [2]
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf>
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
@@ -1100,14 +1100,13 @@ File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 1>
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 1>
- [3]
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 1>
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 1>
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 1>
- [4
+ [3
 
 ]
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
@@ -1116,6 +1115,23 @@ File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 2>
 File: cv/AcademicHist22562168.pdf Graphic file (type pdf)
 <use cv/AcademicHist22562168.pdf, page 2>
+ [4
+
+]
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf>
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf>
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf, page 1>
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf, page 1>
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf, page 1>
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf, page 1>
+File: cv/Qualification.pdf Graphic file (type pdf)
+<use cv/Qualification.pdf, page 1>
  [5
 
 ]
@@ -1136,72 +1152,54 @@ File: cv/MC.pdf Graphic file (type pdf)
  [6
 
 ]
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf>
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf>
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf, page 1>
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf, page 1>
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf, page 1>
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf, page 1>
-File: cv/Qualification.pdf Graphic file (type pdf)
-<use cv/Qualification.pdf, page 1>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
+File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
+f)
+<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
  [7
 
 ]
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf>
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf>
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
-File: cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf Graphic file (type pd
-f)
-<use cv/Altium-Essentials-Certificate-Albert-Van-Zyl.pdf, page 1>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
+File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
+e (type pdf)
+<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
  [8
 
-]
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf>
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf>
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
-File: cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf Graphic fil
-e (type pdf)
-<use cv/Altium Essentials Advance Certificate - ALBERT VAN ZYL.pdf, page 1>
- [9
-
-]
-(cv.aux)
+] (cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -1210,12 +1208,12 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33299 strings out of 409500
- 668539 string characters out of 5770370
+ 33293 strings out of 409500
+ 668437 string characters out of 5770370
  1945406 words of memory out of 5000000
- 54971 multiletter control sequences out of 15000+600000
+ 54968 multiletter control sequences out of 15000+600000
  562595 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  116i,17n,121p,847b,817s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (9 pages).
+Output written on cv.pdf (8 pages).
